@@ -1,0 +1,28 @@
+body{
+    background-color: #666;
+    padding: 40px
+}
+
+#app{
+    display: flex;
+    flex-direction: column;
+
+    .fas{
+        color: #fff;  
+        padding: 20px;      
+        
+        
+    }
+
+    .large{
+        font-size: 220px;
+    }
+
+    .small{
+        font-size: 120px;
+    }
+
+    .fa-air-freshener{
+        color: #2ecc71;
+    }
+}
